@@ -1558,7 +1558,7 @@ input[type=reset].primary,
 input[type=button].primary,
 button.primary,
 .button.primary {
-  background-color: #64a19d;
+  background-color: #a89334;
   box-shadow: none;
   color: #000000 !important;
 }
@@ -1815,14 +1815,14 @@ input[type=radio] + label:before {
 input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
   content: "";
-  background-color: #64a19d;
-  border-color: #64a19d;
+  background-color: #a89334;
+  border-color: #a89334;
   color: #ffffff;
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
-  border-color: #64a19d;
-  box-shadow: 0 0 0 1px #64a19d;
+  border-color: #a89334;
+  box-shadow: 0 0 0 1px #a89334;
 }
 
 input[type=checkbox] + label:before {
@@ -2639,7 +2639,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 }
 #wrapper:before {
   background-attachment: fixed;
-  background-color: #64a19d;
+  background-color: #a89334;
   /* background-image: url(images/brain.png); */
   background-repeat: no-repeat;
   background-position: top center;
@@ -2929,7 +2929,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   }
   #wrapper > section > header {
     background-attachment: fixed;
-    background-color: #64a19d;
+    background-color: #a89334;
     /* background-image: url(images/brain.png); */
     background-position: 25% 50%;
     background-repeat: repeat-y;
