@@ -2030,7 +2030,7 @@ input[type=radio] + label {
   width: 100%;
 }
 .image.main img {
-  width: 100%;
+  width: 75%;
 }
 .image.main:first-child {
   margin-top: 0;
