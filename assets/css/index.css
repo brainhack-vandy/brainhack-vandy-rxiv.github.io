@@ -2537,7 +2537,7 @@ a.arrow:before {
 }
 @media screen and (max-width: 1152px) {
   .gallery a img {
-    width: 100%;
+    width: 200%;
   }
   .gallery a.landscape img {
     height: 25rem;
